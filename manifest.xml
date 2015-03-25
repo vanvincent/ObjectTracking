@@ -1,0 +1,15 @@
+<package>
+  <description brief="colortrack_ros">
+
+     colortrack_ros
+
+  </description>
+  <author>Juan Fasola</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/colortrack_ros</url>
+  <depend package="roscpp"/>
+  <!--depend package="vision_opencv"/-->
+</package>
+
+

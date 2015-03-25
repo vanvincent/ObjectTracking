@@ -1,0 +1,4 @@
+string color
+---
+float32 left_distance
+float32 front_distance
